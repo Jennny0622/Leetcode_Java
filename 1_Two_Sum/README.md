@@ -1,12 +1,12 @@
 # 1. Two Sum (Java Solution)
 
-🔗 [LeetCode Link](https://leetcode.com/problems/two-sum/)  
-📄 Difficulty: Easy  
-🧠 Topics: Array, Hash Table
+[LeetCode Link](https://leetcode.com/problems/two-sum/)  
+Difficulty: Easy  
+Topics: Array, Hash Table
 
 ---
 
-## 🧩 Problem Description
+## Problem Description
 
 Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.
 
