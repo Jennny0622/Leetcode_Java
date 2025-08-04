@@ -8,9 +8,9 @@ Topics: Linked List, Recursion
 
 ## Problem Description
 
-Given the head of a linked list and an integer val, 
-remove all the nodes of the linked list that has Node.val == val, 
-and return the new head.
+Given the head of a linked list and an integer val,  
+remove all the nodes of the linked list that have val as their value, and return the new head.
+
 ---
 
 ## Approach (Recursive)
